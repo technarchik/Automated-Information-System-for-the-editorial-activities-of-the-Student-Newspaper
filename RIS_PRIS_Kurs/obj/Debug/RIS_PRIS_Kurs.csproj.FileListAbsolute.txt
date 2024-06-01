@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\bin\Debug\RIS_PRIS_Kurs.exe.config
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\bin\Debug\RIS_PRIS_Kurs.exe
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\bin\Debug\RIS_PRIS_Kurs.pdb
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.authorizationForm.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.Properties.Resources.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.registrationForm.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.exe
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.pdb
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.editMaterialForm.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.editMaterialMemberForm.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.menuWriterForm.resources
+C:\Users\PC\source\repos\RIS_PRIS_Kurs\obj\Debug\RIS_PRIS_Kurs.menuDesignerForm.resources
