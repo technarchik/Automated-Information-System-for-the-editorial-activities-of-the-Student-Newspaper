@@ -1,0 +1,2 @@
+There is a files of data base RIS_PRIS in the folder "DataBase", server side of my project. The folder RIS_PRIS_Kurs contains files of Windows Forms files - client side of the project. I haven't moved the project yet so that it can be used from any computer, but you can watch the video and the project documentation to familiarize yourself with the project.
+You can try to launch the project via RIS_PRIS_Kurs.exe
